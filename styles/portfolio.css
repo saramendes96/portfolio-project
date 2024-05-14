@@ -3,14 +3,23 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Playfair Display", serif;
     font-weight: bold;
       }
-
 p {
     font-family: "Poppins", sans-serif;
     font-weight: 500;
     font-style: normal;
 }
 
+h1 {
+font-size: 96px;
+font-weight: bold;
+}
+
 .hero {
 background: #f9f7fe;
 text-align: center;
+}
+
+.hero p {
+font-size: 36px;
+font-weight:bold;
 }
