@@ -17,11 +17,16 @@ h1, h2, h3, h4, h5, h6 {
       }
 p {
     font-weight: normal;
+    font-size: 16px;
 }
 
 h1 {
 font-size: 96px;
 font-weight: bold;
+}
+
+h2 {
+font-size: 64px;
 }
 
 .hero {
