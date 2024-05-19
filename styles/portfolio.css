@@ -51,9 +51,12 @@ line-height:1.5;
 font-size:24px;
 }
 
-.about-section {
+.content-container {
 padding: 160px 15px;
 padding-top: 10px;
+text-align: center;
+padding: 0;
+
 }
 
 .col {
@@ -61,26 +64,25 @@ padding-top: 10px;
     align-items: center;
 }
 
-.about-section h1 {
+.content-container h1 {
 font-size:80px;
 line-height:1;
 }
 
-.about-section-content {
+.content {
 margin: 30px;
 }
 
-.about-section img {
+.content-container img {
 max-width: 100%;
 height: auto; 
 object-fit: cover;
 }
 
-.about-section h2 {
+.content-container h2 {
 font-size:18px;
 font-family: var(--default-font-family);
 }
-
 
 .btn-branding {
 background: var(--branding-color);
@@ -125,8 +127,4 @@ padding:0;
 text-align: center;
 }
 
-.about-section {
-text-align: center;
-padding:0;
-}
 }
