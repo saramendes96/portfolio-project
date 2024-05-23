@@ -36,6 +36,11 @@ nav a {
     transition: all 100ms ease-in-out;
 }
 
+.logo {
+    max-width: 100px;
+    height:auto;
+}
+
 h1,
 h2,
 h3,
@@ -147,7 +152,7 @@ h2 {
     padding: 120px 60px;
 }
 
-@media (max-width:900px) {
+@media (max-width:768px) {
 
     h1 {
         font-size: 44px;
@@ -168,7 +173,6 @@ h2 {
     }
 
     .logo {
-        max-width: 150px;
-    }
-
+        max-width: 100%;
+      }
 }
