@@ -152,7 +152,7 @@ h2 {
     padding: 120px 60px;
 }
 
-@media (max-width:768px) {
+@media (max-width:900px) {
 
     h1 {
         font-size: 44px;
@@ -176,4 +176,5 @@ h2 {
     font-size: 13px;
     justify-content: center;
     }
+
    }
