@@ -68,6 +68,10 @@ h2 {
     font-size: 64px;
 }
 
+h4 {
+font-size: 48px;
+}
+
 .hero {
     background: var(--secondary-color);
     text-align: center;
@@ -131,6 +135,12 @@ h2 {
 
 footer {
 margin: 60px 0;
+}
+
+footer .contact-box {
+background: var(--secondary-color);
+padding: 30px 120px;
+border-radius: 10px;
 }
 
 footer .email-link {
