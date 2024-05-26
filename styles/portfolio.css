@@ -203,6 +203,10 @@ background: var(--branding-color);
     h2 {
         font-size: 44px;
     }
+    
+    h4 {
+    font-size: 18px;
+    }
 
     .hero {
         padding: 80px 20px;
@@ -217,5 +221,8 @@ background: var(--branding-color);
     font-size: 13px;
     justify-content: center;
     }
-
+    
+   footer .contact-box {
+   padding: 30px;
+   }
    }
