@@ -100,10 +100,21 @@ font-size: 48px;
 
 }
 
-.col {
+.row {
     display: flex;
     align-items: center;
 }
+
+.reading-image {
+    width: 500px;
+    height: auto;
+  }
+
+.christmas-image {
+    width: 700px;
+    height: auto;
+}
+  
 
 .content h1 {
     font-size: 80px;
