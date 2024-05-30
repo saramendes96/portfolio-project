@@ -108,6 +108,8 @@ font-size: 48px;
 .reading-image {
     width: 500px;
     height: auto;
+    justify-content: center;
+    align-items: center;
   }
 
 .christmas-image {
@@ -115,7 +117,6 @@ font-size: 48px;
     height: auto;
 }
   
-
 .content h1 {
     font-size: 80px;
     line-height: 1;
